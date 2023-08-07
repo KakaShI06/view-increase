@@ -1,0 +1,22 @@
+.input{
+  color: black;
+  outline: none;
+  border: none;
+  width: 70%;
+  padding: 0.5em;
+  max-width: 70%;
+  border-radius: 7px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.button{
+  padding: 0.5em;
+  width: 30%;
+  max-width: 30%;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
